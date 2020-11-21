@@ -1,0 +1,6 @@
+This folder contains the oauth configuration struct necessary to do oauth things,
+but due to security reasons I have removed this from git. The files obviously existed
+for the binary I produce.
+
+Please see https://github.com/golang/oauth2/blob/9fd604954f58/oauth2.go#L41 for
+the necessary options to create this yourself if you would like to do so.
